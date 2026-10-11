@@ -1,6 +1,7 @@
 [submodule "extern/xatlas"]
 	path = extern/xatlas
-	url = https://github.com/jpcy/xatlas.git
+	url = https://github.com/liaozhi0520/xatlas-for-dsh-comfyui-based-tools.git
+	branch = dsh
 [submodule "extern/pybind11"]
 	path = extern/pybind11
 	url = https://github.com/pybind/pybind11.git
